@@ -48,7 +48,9 @@
     },
     "MENU": {
       "ADD_NESTED_DOCUMENT": "Adicionar Documento Aninhado",
+      "CHANGE_DOCUMENT_ICON": "Alterar ícone do documento",
       "CHANGE_DOCUMENT_STATUS": "Alterar Status do Documento",
+      "CHANGE_FOLDER_ICON": "Alterar ícone de pasta",
       "CUSTOMIZE_SPACED_REPETITION": "Personalizar a Repetição Espaçada",
       "DELETE": "Excluir",
       "EDIT_MODE": {
@@ -63,6 +65,7 @@
       },
       "MARK_AS_DOCUMENT": "Marcar como Documento",
       "MOVE": "Mover",
+      "MULTI_SELECTION_FOLDER": "Selecione várias pastas/documentos",
       "MULTI_SELECTION_MODE": "Selecionar Vários Rems",
       "OPEN_IN_ANOTHER_PANE": "Abrir em Outro Painel",
       "PIN_TO_SIDEBAR": "Fixar na Barra Lateral",
@@ -688,6 +691,7 @@
     },
     "UPLOAD_SOURCE": {
       "EMPTY": "Arraste PDFs, documentos de Word, PPTs e <moreLink>mais</moreLink> aqui!",
+      "IMPORT_INSTEAD": "O RemNote não pode aceitar uploads de arquivos deste tipo. No entanto, podemos importar as notas ou flashcards neste arquivo! Tente escolher “Importar” no menu da conta, localizado no canto superior esquerdo.",
       "INVALID": "Formato incorreto de arquivo",
       "LABEL": "Upload de Fonte",
       "PDF": "PDF",
